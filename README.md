@@ -45,3 +45,7 @@ To uninstall, delete `wifi-tray.desktop` from the two directories above and dele
 - Only one instance runs at a time.
 - A hardware-blocked adapter (for example a laptop switch) shows a disabled toggle, because software can't override it.
 - At login the app waits up to 60 seconds for the panel's tray to appear before giving up.
+
+## License
+
+[MIT](LICENSE)
